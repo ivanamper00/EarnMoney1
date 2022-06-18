@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kiếm tiền tại nhà</string>
+    <string name="main">Nhà</string>
+    <string name="money_way">Cách kiếm tiền</string>
+    <string name="strategy">" Chiến lược"</string>
+    <string name="tips">"Lời khuyên"</string>
+    <string name="history">"Lịch sử"</string>
+    <string name="exit">Exit</string>
+</resources>
